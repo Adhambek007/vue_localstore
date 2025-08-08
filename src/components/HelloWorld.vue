@@ -21,7 +21,7 @@
           :key="index"
           class="bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden"
       >
-        <img :src="pro.img" alt="Car" class="w-full h-48 object-cover" />
+        <img :src="pro.img" alt="img" class="w-full h-48 object-cover" />
         <div class="p-4 space-y-1">
           <h2 class="text-lg font-bold text-gray-800"> {{ pro.price }}</h2>
           <p class="text-sm text-gray-600">Yil: {{ pro.year }}</p>
