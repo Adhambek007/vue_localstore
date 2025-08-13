@@ -1,9 +1,8 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import project from './components/homework_project.vue'
 </script>
 
 <template>
-
-  <HelloWorld  />
+<project/>
 </template>
 
