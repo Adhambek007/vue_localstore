@@ -1,8 +1,10 @@
 <script setup>
-import project from './components/homework_project.vue'
+import products_header from './components/products_header.vue'
+import homework_projects from './components/homework_project.vue'
 </script>
 
 <template>
-<project/>
+  <products_header/>
+  <homework_projects/>
 </template>
 
