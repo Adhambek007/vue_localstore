@@ -1,10 +1,10 @@
 <script setup>
-import products_header from './components/products_header.vue'
-import homework_projects from './components/homework_project.vue'
+import agency from './components/vue_2/agency_header.vue'
+import agency_main from './components/vue_2/agency_main.vue'
 </script>
 
 <template>
-  <products_header/>
-  <homework_projects/>
+<agency/>
+  <agency_main/>
 </template>
 
